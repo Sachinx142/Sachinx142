@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" rel="noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=sachinx142&theme=onedark" alt="Trophies" />
   </a>
 </p>
@@ -23,26 +23,25 @@
   - **Redis**, **Docker**, **Kubernetes**
   - Deep dive into **Express.js**
 
-- 🤝 Open to collaborations on:
+- 🤝 Open to collaborating on:
   - Open-source backend tools
   - Projects using **Node.js**, **Express**, **MongoDB**, **Socket.io**, **Postman**  
-  🔗 [Babycare School Management System](https://github.com/Sachinx142/babycare)
+  🔗 [Babycare - School Management System](https://github.com/Sachinx142/babycare)
 
-- 🧠 Actively improving:
-  - Performance in large-scale Node.js applications  
+- 🧠 Improving performance in large-scale Node.js applications  
   🔗 [Chat App](https://github.com/Sachinx142/Chat-App)
 
-- 👨‍💻 All my projects:  
-  [🔗 GitHub Portfolio](https://github.com/Sachinx142)
+- 👨‍💻 Explore my projects:  
+  🔗 [GitHub Portfolio](https://github.com/Sachinx142)
 
 - 💬 Ask me about:  
   **Node.js, Express, MongoDB, REST APIs, JWT Authentication**
 
-- 📫 Reach me at:  
+- 📫 Contact me at:  
   **mehrasachinr30@gmail.com**
 
-- 📄 Know more about my work:  
-  [🔗 Resume / Project Details](https://drive.google.com/file/d/1CCSlotMTOKbaKcJbnpebxyn5UKoMD7Zf/view?usp=drivesdk)
+- 📄 View my resume and projects:  
+  [🔗 Resume / Portfolio](https://drive.google.com/file/d/1CCSlotMTOKbaKcJbnpebxyn5UKoMD7Zf/view?usp=drivesdk)
 
 - ⚡ Fun fact:  
   **"My favorite response? 200 OK."**
@@ -52,16 +51,16 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/sachin" target="_blank">
+  <a href="https://dev.to/sachin" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/sachin-mehra-6a07a82b9" target="_blank">
+  <a href="https://www.linkedin.com/in/sachin-mehra-6a07a82b9" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://www.facebook.com/share/1el7g5ougj/" target="_blank">
+  <a href="https://www.facebook.com/share/1el7g5ougj/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
   </a>
-  <a href="https://www.instagram.com/its__sachinmehra" target="_blank">
+  <a href="https://www.instagram.com/its__sachinmehra" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
   </a>
 </p>
